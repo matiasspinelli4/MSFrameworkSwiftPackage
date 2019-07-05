@@ -1,0 +1,1 @@
+# MSFrameworkSwiftPackage
